@@ -2,13 +2,7 @@
 
 # **🌟 Welcome to Mincoder's GitHub 🌟**
 
-</div>
-
-
-
-<div align="center">
-
-### **✨ Tech Stack ✨**
+## **✨ Tech Stack ✨**
 
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
@@ -29,8 +23,10 @@
 </div>
 
 ---
+
 <div align="center">
-### **🚀 Projects 🚀**
+
+## **🚀 Projects 🚀**
 
 | Project | Description | Tech Stack | Link |
 |---------|------------|------------|------|
@@ -39,9 +35,12 @@
 | 🤖 AI Chat Bot | Custom AI chatbot for customer service | Python, TensorFlow, Flask | [Repository](https://github.com/username/project3) |
 
 </div>
+
 ---
+
 <div align="center">
-### **🎓 Certifications & Language Skills 🎓**
+
+## **🎓 Certifications & Language Skills 🎓**
 
 | Certification | Organization | Year |
 |--------------|--------------|------|
@@ -49,16 +48,13 @@
 | SQLD | Korea Data Agency | 2023 |
 | TOEIC 900+ | ETS | 2023 |
 
-**Language Skills**
-- 🇰🇷 Korean (Native)
-- 🇺🇸 English (Business Professional)
-- 🇯🇵 Japanese (JLPT N2)
 </div>
+
 ---
 
 <div align="center">
 
-### **📚 Studying 📚**
+## **📚 Studying 📚**
 
 <p>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -73,7 +69,7 @@
 
 <div align="center">
 
-### **🛠 Tools 🛠**
+## **🛠 Tools 🛠**
 
 <p>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -95,7 +91,7 @@
 
 <div align="center">
 
-### **📫 Contact 📫**
+## **📫 Contact 📫**
 
 <p>
   <a href="https://velog.io/@oka1313">
