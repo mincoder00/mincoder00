@@ -46,9 +46,10 @@
 
 | Certification | Organization | Year |
 |--------------|--------------|------|
-| AWS Certified Solutions Architect | Amazon Web Services | 2023 |
+| TOEIC 945 | ETS | 2024 |
+| OPIC IH | ACTFL | 2024 |
 | SQLD | Korea Data Agency | 2023 |
-| TOEIC 900+ | ETS | 2023 |
+| ADSP | Korea Data Agency | 2023 |
 
 </div>
 
