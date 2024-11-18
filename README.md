@@ -1,15 +1,7 @@
 <div align="center">
-
 # **🌟 Welcome to Mincoder's GitHub 🌟**
 
-</div>
-
-
-
-<div align="center">
-
 ### **✨ Tech Stack ✨**
-
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,24 +23,49 @@
 ---
 
 <div align="center">
+### **🚀 Projects 🚀**
 
-### **📚 Studying 📚**
-
-<p>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
-  <img src="https://img.shields.io/badge/nunjucks-3C813E.svg?style=for-the-badge&logo=nunjucks&logoColor=white" />
-</p>
+| Project | Description | Tech Stack | Link |
+|---------|------------|------------|------|
+| 🎮 Gaming Platform | Full-stack gaming community platform | Spring Boot, React, MySQL | [Repository](https://github.com/username/project1) |
+| 📱 Social Media App | Mobile-first social networking app | Node.js, MongoDB, React Native | [Repository](https://github.com/username/project2) |
+| 🤖 AI Chat Bot | Custom AI chatbot for customer service | Python, TensorFlow, Flask | [Repository](https://github.com/username/project3) |
 
 </div>
 
 ---
 
 <div align="center">
+### **📚 Studying 📚**
+<p>
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/nunjucks-3C813E.svg?style=for-the-badge&logo=nunjucks&logoColor=white" />
+</p>
+</div>
 
+---
+
+<div align="center">
+### **🎓 Certifications & Language Skills 🎓**
+
+| Certification | Organization | Year |
+|--------------|--------------|------|
+| AWS Certified Solutions Architect | Amazon Web Services | 2023 |
+| SQLD | Korea Data Agency | 2023 |
+| TOEIC 900+ | ETS | 2023 |
+
+**Language Skills**
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English (Business Professional)
+- 🇯🇵 Japanese (JLPT N2)
+</div>
+
+---
+
+<div align="center">
 ### **🛠 Tools 🛠**
-
 <p>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -62,15 +79,12 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
 </p>
-
 </div>
 
 ---
 
 <div align="center">
-
 ### **📫 Contact 📫**
-
 <p>
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
@@ -80,4 +94,5 @@
   </a>
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 </div>
