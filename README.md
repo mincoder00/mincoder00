@@ -1,6 +1,6 @@
 <div align="center">
 
-# **🌟 Beginner Backend Developer aspiring to grow through "Deep Thinking" and "Steady Progress Forward" 🌟**
+# **🌟 Welcome to Mincoder's GitHub 🌟**
 
 ## **✨ Tech Stack ✨**
 
