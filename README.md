@@ -29,6 +29,27 @@
 </div>
 
 ---
+<div align="center">
+### **🚀 Projects 🚀**
+
+| Project | Description | Tech Stack | Link |
+|---------|------------|------------|------|
+| 🎮 Gaming Platform | Full-stack gaming community platform | Spring Boot, React, MySQL | [Repository](https://github.com/username/project1) |
+| 📱 Social Media App | Mobile-first social networking app | Node.js, MongoDB, React Native | [Repository](https://github.com/username/project2) |
+| 🤖 AI Chat Bot | Custom AI chatbot for customer service | Python, TensorFlow, Flask | [Repository](https://github.com/username/project3) |
+
+</div>
+---
+<div align="center">
+### **📚 Studying 📚**
+<p>
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/nunjucks-3C813E.svg?style=for-the-badge&logo=nunjucks&logoColor=white" />
+</p>
+</div>
+---
 
 <div align="center">
 
