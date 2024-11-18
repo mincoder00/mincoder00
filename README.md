@@ -42,7 +42,7 @@
 
 <div align="center">
 
-## **🎓 Certifications & Language Skills 🎓**
+## **🎓 Certifications 🎓**
 
 | Certification | Organization | Year |
 |--------------|--------------|------|
