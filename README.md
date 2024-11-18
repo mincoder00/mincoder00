@@ -94,10 +94,10 @@
 ## **📫 Contact 📫**
 
 <p>
-  <a href="https://velog.io/@oka1313">
+  <a href="https://velog.io/@mincheol0810/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:minchul0123@gmail.com">
     <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
