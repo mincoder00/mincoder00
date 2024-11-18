@@ -41,13 +41,18 @@
 </div>
 ---
 <div align="center">
-### **📚 Studying 📚**
-<p>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
-  <img src="https://img.shields.io/badge/nunjucks-3C813E.svg?style=for-the-badge&logo=nunjucks&logoColor=white" />
-</p>
+### **🎓 Certifications & Language Skills 🎓**
+
+| Certification | Organization | Year |
+|--------------|--------------|------|
+| AWS Certified Solutions Architect | Amazon Web Services | 2023 |
+| SQLD | Korea Data Agency | 2023 |
+| TOEIC 900+ | ETS | 2023 |
+
+**Language Skills**
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English (Business Professional)
+- 🇯🇵 Japanese (JLPT N2)
 </div>
 ---
 
