@@ -1,6 +1,6 @@
 <div align="center">
 
-# **🌟 Welcome to Mincoder's GitHub 🌟**
+# **Mincheol Kim**
 
 ## **✨ Tech Stack ✨**
 
