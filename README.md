@@ -28,21 +28,6 @@
 
 <div align="center">
 
-## **🚀 Projects 🚀**
-
-| Project | Description | Tech Stack | Link |
-|---------|------------|------------|------|
-| 🎮 Club Website Development | Full-stack gaming community platform | Spring Boot, React, MySQL | [Repository](https://github.com/username/project1) |
-| 🎮 All-in-One Stock Information Service | Full-stack gaming community platform | Spring Boot, React, MySQL | [Repository](https://github.com/username/project1) |
-| 📱 Income Prediction AI Model | Mobile-first social networking app | Node.js, MongoDB, React Native | [Repository](https://github.com/username/project2) |
-| 🤖 Optimizing Facility Locations with Data Analysis | Custom AI chatbot for customer service | Python, TensorFlow, Flask | [Repository](https://github.com/username/project3) |
-
-</div>
-
----
-
-<div align="center">
-
 ## **🎓 Certifications 🎓**
 
 | Certification | Organization | Year |
