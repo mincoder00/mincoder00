@@ -13,8 +13,6 @@
 <p>
   <img src="https://img.shields.io/badge/spring-F6D1EA.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-093EE3.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/nunjucks-5DDEE3.svg?style=for-the-badge&logo=nunjucks&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
